@@ -1,5 +1,5 @@
 //function with  no parameter and return type 
-String printinfo4(){
+String directorname(){
   return 'JOe biden';
 }
 
@@ -11,7 +11,7 @@ int voterage() {
 
 void main(){
  
- String PMname = printinfo4();
+ String PMname = directorname();
  print(PMname);
 
   int personage = 15;
